@@ -1,4 +1,14 @@
-# Python Exercise
+# 1404-03-17 Menu
+
+Already implemented:
+
+- Signup
+- Login
+- Exit
+
+You should implement:
+
+- Delete Account
 
 1. Copy the repository URL
 2. Go to VS Code
