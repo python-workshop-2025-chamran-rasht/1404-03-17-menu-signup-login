@@ -1,20 +1,22 @@
 # 2025-06-07 Menu
 
-Already implemented:
+منویی بسازید که کارهای زیر را انجام دهد.
+
+انجام شده سر کلاس:
 
 - Signup
 - Login
 - Exit
 
-You should implement:
+شما انجام دهید:
 
 - Delete Account
 
-To clone locally:
+برای clone کردن داخل VS Code:
 
-1. Copy the repository URL
-2. Go to VS Code
-3. Press <kbd><kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>p</kbd></kbd>
-4. Type <kbd>Git: Clone</kbd>
-5. Paste the URL
-6. Select a directory
+1. آدرس این مخزن را کپی کنید
+2. به VS Code بروید
+3. منو دستور را با استفاده از <kbd><kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>p</kbd></kbd> باز کنید
+4. دستور <kbd>Git: Clone</kbd> را انتخاب کنید
+5. آدرس را پیست کنید
+6. یک فولدر جهت clone انتخاب کنید
