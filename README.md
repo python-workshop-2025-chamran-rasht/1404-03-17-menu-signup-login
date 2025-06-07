@@ -1,0 +1,8 @@
+# Python Exercise
+
+1. Copy the repository URL
+2. Go to VS Code
+3. Press <kbd><kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>p</kbd></kbd>
+4. Type <kbd>Git: Clone</kbd>
+5. Paste the URL
+6. Select a directory
