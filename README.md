@@ -10,6 +10,8 @@ You should implement:
 
 - Delete Account
 
+To clone locally:
+
 1. Copy the repository URL
 2. Go to VS Code
 3. Press <kbd><kbd>ctrl</kbd>+<kbd>shift</kbd>+<kbd>p</kbd></kbd>
